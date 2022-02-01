@@ -23,7 +23,7 @@ blueprint_print_url = "/css/print.css"
 blueprint_ie_url = "/css/ie.css"
 custom_css_url = "/css/custom.css"
 
-website_link_base_publish = "http://mladenov.ca/~nickm/nec"
+website_link_base_publish = "https://randomvariations.github.io/nec"
 
 
 def html (website_link_base):
